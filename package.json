@@ -80,7 +80,7 @@
     "semver-utils": "^1.1.4",
     "source-map-support": "^0.5.21",
     "spawn-please": "^1.0.0",
-    "update-notifier": "^5.1.0",
+    "update-notifier": "^6.0.2",
     "yaml": "^1.10.2"
   },
   "devDependencies": {
